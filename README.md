@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-blick-von-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ein Blick von dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-blick-von-dir/) |
+| **Get License** | [Music Rights & Licensing for Ein Blick von dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-blick-von-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ein Blick von dir und ich verlier' den Verstand
+> Du hast mein Herz in deiner seidenen Hand
+> Wir gleiten durch die Straßen, das Neonlicht brennt
+> Zwei Seelen in der Dunkelheit, die niemand kennt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
