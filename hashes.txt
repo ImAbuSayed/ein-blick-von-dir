@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ein Blick von dir
+
+This log tracks the cryptographic history and versioning for the song **Ein Blick von dir** (ein-blick-von-dir).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T06:41:11.625421 | `v1` | `a0c2ab48057b0ad6563af68736b37d58192cccef1edf7c6b657f7f0668d3869b` | `f43d0838d3ec3af3404b3141d30d0e8bc734c11ef9582f846270727ec83f4bf3` | `2026-06-27_ein-blick-von-dir-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

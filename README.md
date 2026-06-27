@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-blick-von-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Ein Blick von dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-blick-von-dir/) |
+| **Get License** | [Request Licensing for Ein Blick von dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-blick-von-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a0c2ab48057b0ad6563af68736b37d58192cccef1edf7c6b657f7f0668d3869b` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
